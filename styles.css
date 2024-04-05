@@ -1,0 +1,67 @@
+body {
+  font-family: 'Poppins', sans-serif; /* Set font family to Poppins */
+  background-color: #1A1A1D; /* Set background color for the entire extension */
+  margin: 0; /* Remove default body margin */
+  padding: 0; /* Remove default body padding */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  width: 300px;
+  text-align: center;
+  color: white; /* Set text color */
+  margin: 20px; /* Add margin to all sides */
+  margin-bottom: 20px; /* Add spacing from the bottom */
+}
+
+h1 {
+  font-size: 20px; /* Reduced heading size */
+}
+
+#output {
+  margin-top: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  text-align: left;
+  margin-bottom: 20px; /* Add margin to the bottom */
+}
+
+p {
+  margin-bottom: 10px; /* Add margin between paragraphs */
+  font-size: 14px; /* Set paragraph font size */
+}
+
+button {
+  margin-top: 10px; /* Add margin to the top of buttons */
+  padding: 8px 16px; /* Proper button padding */
+  font-size: 14px; /* Set button font size */
+  background-color: #C3073F; /* Set button color */
+  color: white; /* Set button text color */
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #8A0432; /* Darker button color on hover */
+}
+
+#copy {
+  margin-bottom: 10px; /* Add margin to the bottom of the button */
+}
+
+h3 {
+  font-size: 16px; /* Set font size for the link */
+}
+
+a {
+  color: #C3073F; /* Set link color */
+  text-decoration: none; /* Remove underline from the link */
+}
+
+a:hover {
+  text-decoration: underline; /* Add underline on hover */
+}
