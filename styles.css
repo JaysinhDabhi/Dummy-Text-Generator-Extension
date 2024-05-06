@@ -1,6 +1,6 @@
 body {
   font-family: 'Poppins', sans-serif; /* Set font family to Poppins */
-  background-color: #1A1A1D; /* Set background color for the entire extension */
+  background-color: #ffffff; /* Set background color for the entire extension */
   margin: 0; /* Remove default body margin */
   padding: 0; /* Remove default body padding */
   display: flex;
@@ -12,7 +12,7 @@ body {
 .container {
   width: 300px;
   text-align: center;
-  color: white; /* Set text color */
+  color: #212121; /* Set text color */
   margin: 20px; /* Add margin to all sides */
   margin-bottom: 20px; /* Add spacing from the bottom */
 }
@@ -39,7 +39,7 @@ button {
   padding: 8px 16px; /* Proper button padding */
   font-size: 14px; /* Set button font size */
   background-color: #C3073F; /* Set button color */
-  color: white; /* Set button text color */
+  color: #ffffff; /* Set button text color */
   border: none;
   border-radius: 4px;
   cursor: pointer;
