@@ -23,11 +23,11 @@
 
 ## About The Project
 
-![Screen Shot]()
+![Screen Shot](1.png)
 
-![Screen Shot]()
+![Screen Shot](2.png)
 
-![Screen Shot]()
+![Screen Shot](3.png)
 
 **LightCrop** is a minimalist online image editor built with HTML, CSS, and JavaScript. It allows users to effortlessly crop images in three popular aspect ratios (1:1, 16:9, and 4:5) with a live preview and download option. Designed for speed and simplicity, LightCrop offers a lightweight and user-friendly experience.
 
