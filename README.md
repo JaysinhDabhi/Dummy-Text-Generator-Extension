@@ -11,7 +11,7 @@
     Chrome Extension
     <br/>
     <br/>
-    <a href="https://lightcrop.vercel.app/">Download</a>
+    <a href="https://github.com/JaysinhDabhi/Dummy-Text-Generator-Extension/archive/refs/heads/main.zip">Download</a>
     .
     <a href="https://github.com/JaysinhDabhi/https://github.com/JaysinhDabhi//issues">Report Bug</a>
     .
@@ -29,25 +29,25 @@
 
 ![Screen Shot](3.png)
 
-**LightCrop** is a minimalist online image editor built with HTML, CSS, and JavaScript. It allows users to effortlessly crop images in three popular aspect ratios (1:1, 16:9, and 4:5) with a live preview and download option. Designed for speed and simplicity, LightCrop offers a lightweight and user-friendly experience.
+**Dummy Text Generator** is your solution for streamlined dummy text generation! Designed with developers and designers in mind, this extension revolutionizes the process of populating websites with placeholder text. Say goodbye to tedious searches and hello to effortless productivity.
 
-## Built With
 
-**Front-end:** HTML, CSS, JavaScript <br>
-**Libraries (optional):** Consider using lightweight libraries like FileReader, FilePond, or cropper.js for easier file handling and cropping functionality.
 
 ## Usage
 
-Develop a user-friendly and intuitive interface for image cropping.
-Ensure smooth responsiveness and fast loading times.
-Maintain a small codebase for ease of maintenance and future updates. 
+* Seamless Integration: Integrate effortlessly into your browser for quick access.<br>
+* Diverse Options: Choose from a variety of dummy text styles to suit your project.<br>
+* Instant Generation: Generate text with a single click, saving time.<br>
+* Customization: Tailor text length, format, and content to fit your needs.<br>
+* Boosted Productivity: Increase efficiency by eliminating manual text searches.<br>
+* Developer and Designer Friendly: Designed to enhance workflow for both developers and designers.<br>
 
-## Demo
+## Download
 
-<a href="https://lightcrop.vercel.app/">View Demo</a>
+<a href="https://github.com/JaysinhDabhi/Dummy-Text-Generator-Extension/archive/refs/heads/main.zip">Download</a>
 
 
 
 ## Authors
 
-* **Jaysinh Dabhi** - Full Stack Developer - [Jaysinh Dabhi](https://github.com/JaysinhDabhi/) - Built LightCrop!
+* **Jaysinh Dabhi** - Full Stack Developer - [Jaysinh Dabhi](https://github.com/JaysinhDabhi/) - Built Dummy Text Generator-Chrome Extension!
